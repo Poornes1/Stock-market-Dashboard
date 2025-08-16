@@ -106,12 +106,8 @@ The application includes a machine learning model that:
 
 ## 📱 Screenshots
 
-[Add screenshots here after deployment]
+![Assignment Screenshot](./assignment.png)
 
-## 🔗 Live Demo
 
-[Add deployment link here]
 
-## 📄 License
 
-MIT License - feel free to use this project for learning and development!
